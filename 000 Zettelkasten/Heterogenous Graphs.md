@@ -44,7 +44,7 @@ However, it *comes with costs*:
 ### Models for handling heterogenous graphs
 
 - [[Relational Graph Convolutional Networks (RGCNs)]]
-
+- [[Heterogenous Graph Transformer (HGT)]]
 
 ---
 ## References
