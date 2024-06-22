@@ -1,0 +1,294 @@
+{
+  "main": {
+    "id": "944faf9edfe20d69",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c319d6a17854ca5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02d32c8d95b7d5e0",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Stanford CS224W - Machine Learning with Graphs.canvas",
+                "viewState": {
+                  "x": 536.9486313182771,
+                  "y": 1676.874669620545,
+                  "zoom": -1.3333333333333333
+                }
+              }
+            }
+          },
+          {
+            "id": "7bf1e9cdb4376625",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "999 Reference Notes/CS224W - Machine Learning with Graphs.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b919f0d867b22843",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 Zettelkasten/Heterogenous Graphs.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0ba959b7f4e8f6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 Zettelkasten/Relational Graph Convolutional Networks (RGCNs).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "08654a4bcaea9263",
+    "type": "split",
+    "children": [
+      {
+        "id": "c23154666c2cd153",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edcab463b232f7d9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "89275b97df55149e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "weisfeiler-lehman",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "283981781491caa4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "541a995d0338add2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "552f7466616660cf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "db9b29fc250e5ca9",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "000 Zettelkasten/Relational Graph Convolutional Networks (RGCNs).md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.508761885579259,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f6688753e37adf4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7dd48cb3f97a72b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c923f06d8bc251f2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "000 Zettelkasten/Relational Graph Convolutional Networks (RGCNs).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "31bf72a9726ea4bb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "000 Zettelkasten/Relational Graph Convolutional Networks (RGCNs).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "4741e6fed3ccea31",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "000 Zettelkasten/Relational Graph Convolutional Networks (RGCNs).md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "a085fa9c20e9a8d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d059424b2f4b446",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "f0ba959b7f4e8f6d",
+  "lastOpenFiles": [
+    "README.md",
+    "000 Zettelkasten/Heterogenous Graphs.md",
+    "000 Zettelkasten/Relational Graph Convolutional Networks (RGCNs).md",
+    "Files/Pasted image 20240622104952.png",
+    "Files/Pasted image 20240622104927.png",
+    "Files/Pasted image 20240622104918.png",
+    "Files/Pasted image 20240622104910.png",
+    "999 Reference Notes/CS224W - Machine Learning with Graphs.md",
+    "Stanford CS224W - Machine Learning with Graphs.canvas",
+    "000 Zettelkasten/Graph Isomorphism Network (GIN).md",
+    "Files/Pasted image 20240619214200.png",
+    "Files/Pasted image 20240619214143.png",
+    "000 Zettelkasten/Traditional Feature-based Methods for Graphs.md",
+    "Files/Pasted image 20240619212746.png",
+    "Files/Pasted image 20240619212710.png",
+    "Files/Pasted image 20240616093159.png",
+    "000 Zettelkasten/GraphSAGE.md",
+    "000 Zettelkasten/Graph Convolutional Networks (GCN).md",
+    "000 Zettelkasten/Training Graph Neural Networks (GNN).md",
+    "Files/Pasted image 20240615215153.png",
+    "000 Zettelkasten/Graph Augmentation for GNNs.md",
+    "000 Zettelkasten/Graph Neural Networks.md",
+    "000 Zettelkasten/Graph Attention Networks (GAT).md",
+    "000 Zettelkasten/Node Classification.md",
+    "000 Zettelkasten/Correlation.md",
+    "000 Zettelkasten/Gra.md",
+    "000 Zettelkasten/PageRank.md",
+    "000 Zettelkasten/Eigenvectors and Eigenvalues.md",
+    "000 Zettelkasten/Node Embeddings.md",
+    "000 Zettelkasten/Graph Representation.md",
+    "000 Zettelkasten/Applications of Graph ML.md",
+    "000 Zettelkasten/DAG and Causal Analytics.md",
+    "000 Zettelkasten/Directed Acyclic Graph (DAG).md",
+    "999 Reference Notes/Casual Inference by Brady Neal.md",
+    "000 Zettelkasten/Difference-in-Differences.md",
+    "000 Zettelkasten/Instrumental Variables.md",
+    "000 Zettelkasten/Unobserved Confounding.md",
+    "Templates",
+    "Files",
+    "999 Reference Notes",
+    "000 Zettelkasten/Causal Inference - The Mixtape",
+    "000 Zettelkasten"
+  ]
+}

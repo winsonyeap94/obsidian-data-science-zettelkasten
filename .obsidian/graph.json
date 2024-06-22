@@ -1,0 +1,37 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"999 Reference Notes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:Templates  ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -1.2,
+  "nodeSizeMultiplier": 1.37604166666667,
+  "lineSizeMultiplier": 2.29479166666667,
+  "collapse-forces": false,
+  "centerStrength": 0.338541666666667,
+  "repelStrength": 11.9791666666667,
+  "linkStrength": 1,
+  "linkDistance": 238,
+  "scale": 0.06699744995282497,
+  "close": true
+}

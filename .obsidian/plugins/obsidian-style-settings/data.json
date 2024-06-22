@@ -1,0 +1,13 @@
+{
+  "Components@@tab-autohide": false,
+  "Components@@folder-font-bold": true,
+  "Components@@file-icon-remove": false,
+  "Components@@colorful-folder": false,
+  "Components@@outline-enhanced": false,
+  "Appearance-light@@card-layout-open-light": true,
+  "Appearance-light@@theme-light-style-select": "theme-light-background-default",
+  "Appearance-dark@@card-layout-open-dark": true,
+  "Editor@@border-focus-mode": false,
+  "Editor@@line-hover-indicator": true,
+  "Mobile@@card-layout-pad-open": true
+}
