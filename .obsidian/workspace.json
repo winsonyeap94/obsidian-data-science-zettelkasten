@@ -15,9 +15,9 @@
               "state": {
                 "file": "Stanford CS224W - Machine Learning with Graphs.canvas",
                 "viewState": {
-                  "x": 387.9702063112963,
-                  "y": 2484.2107404486987,
-                  "zoom": -1.5640475751956304
+                  "x": 704.6219809721097,
+                  "y": 3242.714691659362,
+                  "zoom": -1.6666666666666665
                 }
               }
             }
@@ -34,22 +34,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b80143d1a3a46384",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000 Zettelkasten/Knowledge Graphs.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "weisfeiler-lehman",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -95,8 +81,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "541a995d0338add2",
@@ -119,7 +104,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000 Zettelkasten/Knowledge Graphs.md",
+                "file": "000 Zettelkasten/Query2Box.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -152,8 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f6688753e37adf4b",
@@ -169,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Zettelkasten/Knowledge Graphs.md",
+                "file": "000 Zettelkasten/Query2Box.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 Zettelkasten/Knowledge Graphs.md",
+                "file": "000 Zettelkasten/Query2Box.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -198,16 +182,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 Zettelkasten/Knowledge Graphs.md"
+                "file": "000 Zettelkasten/Query2Box.md"
               }
-            }
-          },
-          {
-            "id": "6da92952281fd5c1",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {}
             }
           }
         ],
@@ -243,26 +219,33 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b80143d1a3a46384",
+  "active": "02d32c8d95b7d5e0",
   "lastOpenFiles": [
     "999 Reference Notes/CS224W - Machine Learning with Graphs.md",
-    "Stanford CS224W - Machine Learning with Graphs.canvas",
     "000 Zettelkasten/Knowledge Graphs.md",
-    "Files/Pasted image 20240622175232.png",
-    "Files/Pasted image 20240622175225.png",
+    "000 Zettelkasten/Reasoning Over Knowledge Graphs.md",
+    "000 Zettelkasten/Box Embeddings.md",
+    "000 Zettelkasten/Query2Box.md",
+    "Files/Pasted image 20240625222652.png",
+    "Files/Pasted image 20240625222650.png",
+    "Files/Pasted image 20240625222638.png",
+    "Files/Pasted image 20240625222624.png",
+    "Files/Pasted image 20240625222610.png",
+    "Files/Pasted image 20240625222557.png",
+    "Files/Pasted image 20240625222546.png",
+    "Files/Pasted image 20240625222531.png",
+    "Files/Pasted image 20240625222518.png",
+    "Files/Pasted image 20240625222434.png",
+    "Stanford CS224W - Machine Learning with Graphs.canvas",
+    "000 Zettelkasten/Predictive Queries.md",
+    "000 Zettelkasten/Knowledge Graph Completion Tasks.md",
+    "000 Zettelkasten/ComplEx.md",
+    "000 Zettelkasten/DistMult.md",
+    "000 Zettelkasten/TransE (Translating Embeddings for Modelling Multi-relational Data).md",
+    "000 Zettelkasten/TransR (Translation on Relation-specific Spaces).md",
+    "000 Zettelkasten/Heterogenous Graphs.md",
     "000 Zettelkasten/Relational Graph Convolutional Networks (RGCNs).md",
     "000 Zettelkasten/Heterogenous Graph Transformer (HGT).md",
-    "000 Zettelkasten/Average Treatment Effect (ATE).md",
-    "000 Zettelkasten/Graph Attention Networks (GAT).md",
-    "Files/Pasted image 20240622150947.png",
-    "000 Zettelkasten/Heterogenous Graphs.md",
-    "Files/Pasted image 20240622150610.png",
-    "Files/Pasted image 20240622150559.png",
-    "Files/Pasted image 20240622150547.png",
-    "Files/Pasted image 20240622150537.png",
-    "Files/Pasted image 20240622150519.png",
-    "Files/Pasted image 20240622150509.png",
-    "Files/Pasted image 20240622150443.png",
     "README.md",
     "000 Zettelkasten/Graph Isomorphism Network (GIN).md",
     "000 Zettelkasten/Traditional Feature-based Methods for Graphs.md",
@@ -271,16 +254,9 @@
     "000 Zettelkasten/Training Graph Neural Networks (GNN).md",
     "000 Zettelkasten/Graph Augmentation for GNNs.md",
     "000 Zettelkasten/Graph Neural Networks.md",
+    "000 Zettelkasten/Graph Attention Networks (GAT).md",
     "000 Zettelkasten/Node Classification.md",
     "000 Zettelkasten/Correlation.md",
-    "000 Zettelkasten/Gra.md",
-    "000 Zettelkasten/PageRank.md",
-    "000 Zettelkasten/Eigenvectors and Eigenvalues.md",
-    "000 Zettelkasten/Node Embeddings.md",
-    "000 Zettelkasten/Graph Representation.md",
-    "000 Zettelkasten/Applications of Graph ML.md",
-    "000 Zettelkasten/DAG and Causal Analytics.md",
-    "000 Zettelkasten/Directed Acyclic Graph (DAG).md",
     "Templates",
     "Files",
     "999 Reference Notes",

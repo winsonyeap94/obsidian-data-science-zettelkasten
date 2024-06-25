@@ -1,6 +1,7 @@
 ---
 tags:
   - graphs
+  - knowledge-graphs
 creation-date: 2024-06-22 17:49
 ---
 ## Knowledge Graphs
@@ -19,7 +20,10 @@ KG is an example of a [[Heterogenous Graphs|heterogenous graph]].
 > ![[Pasted image 20240622175225.png]]
 > ![[Pasted image 20240622175232.png]]
 
+## Applications
 
+- [[Knowledge Graph Completion Tasks]]
+- [[Reasoning Over Knowledge Graphs]]
 
 ---
 ## References

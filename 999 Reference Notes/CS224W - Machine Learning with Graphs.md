@@ -63,9 +63,10 @@ Summary Canvas:
 
 [Stanford CS224W: ML with Graphs | 2021 | Lecture 10.1-Heterogeneous & Knowledge Graph Embedding (youtube.com)](https://www.youtube.com/watch?v=Rfkntma6ZUI&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=28)
 
-
 ## Chapter 8: Knowledge Graphs
 
+[Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 10.2 - Knowledge Graph Completion (youtube.com)](https://www.youtube.com/watch?v=xop5tC9T5xM&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=29)
+[Stanford CS224W: ML with Graphs | 2021 | Lecture 10.3 - Knowledge Graph Completion Algorithms (youtube.com)](https://www.youtube.com/watch?v=Xm5VrxZYhu4&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=30)
 
 ## Chapter 9: Reasoning over knowledge graphs
 

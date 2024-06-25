@@ -26,8 +26,14 @@
 		{"id":"55a8cb2ec60580a3","type":"file","file":"000 Zettelkasten/Relational Graph Convolutional Networks (RGCNs).md","x":1520,"y":1989,"width":400,"height":400},
 		{"id":"a7ffcbb334954ebe","type":"file","file":"000 Zettelkasten/Heterogenous Graph Transformer (HGT).md","x":1520,"y":2480,"width":400,"height":400},
 		{"id":"416094f2885589a5","type":"text","text":"# Chapter 7: Heterogenous Graphs","x":160,"y":2400,"width":400,"height":80},
-		{"id":"83bd77dfe8aa37f9","x":880,"y":2880,"width":400,"height":400,"type":"file","file":"000 Zettelkasten/Knowledge Graphs.md"},
-		{"id":"2a207fdc7b254c1a","type":"text","text":"\n# Chapter 8: Knowledge Graphs","x":160,"y":3040,"width":400,"height":80}
+		{"id":"27d9ba1d961b58a0","type":"file","file":"000 Zettelkasten/Knowledge Graph Completion Tasks.md","x":1520,"y":3000,"width":400,"height":400},
+		{"id":"83bd77dfe8aa37f9","type":"file","file":"000 Zettelkasten/Knowledge Graphs.md","x":880,"y":3000,"width":400,"height":400},
+		{"id":"2a207fdc7b254c1a","type":"text","text":"\n# Chapter 8: Knowledge Graphs","x":160,"y":3160,"width":400,"height":80},
+		{"id":"47e50f60c8ce8f0b","type":"file","file":"000 Zettelkasten/Predictive Queries.md","x":1520,"y":3520,"width":400,"height":400},
+		{"id":"58e300c6c5b0577c","type":"file","file":"000 Zettelkasten/Box Embeddings.md","x":1520,"y":4000,"width":400,"height":400},
+		{"id":"60496723ba23319b","type":"file","file":"000 Zettelkasten/Reasoning Over Knowledge Graphs.md","x":880,"y":3760,"width":400,"height":400},
+		{"id":"29d515b821dcf592","type":"text","text":"\n# Chapter 9: Reasoning Over Knowledge Graphs","x":160,"y":3920,"width":400,"height":80},
+		{"id":"4c062b8aea966d94","x":2040,"y":4000,"width":400,"height":400,"type":"file","file":"000 Zettelkasten/Query2Box.md"}
 	],
 	"edges":[
 		{"id":"fbccce3bb81fc027","fromNode":"7302d5b17d75357d","fromSide":"right","toNode":"7877b60f750a6dd5","toSide":"left"},
@@ -57,6 +63,12 @@
 		{"id":"e8e9cf4cac57822a","fromNode":"227b2d226d763f09","fromSide":"right","toNode":"a7ffcbb334954ebe","toSide":"left"},
 		{"id":"35977310ef7c6b06","fromNode":"416094f2885589a5","fromSide":"right","toNode":"227b2d226d763f09","toSide":"left"},
 		{"id":"5cf90c9bf65405c1","fromNode":"7302d5b17d75357d","fromSide":"right","toNode":"2a207fdc7b254c1a","toSide":"left"},
-		{"id":"a7ba90825989c36a","fromNode":"2a207fdc7b254c1a","fromSide":"right","toNode":"83bd77dfe8aa37f9","toSide":"left"}
+		{"id":"a7ba90825989c36a","fromNode":"2a207fdc7b254c1a","fromSide":"right","toNode":"83bd77dfe8aa37f9","toSide":"left"},
+		{"id":"d127b5272d8a266c","fromNode":"83bd77dfe8aa37f9","fromSide":"right","toNode":"27d9ba1d961b58a0","toSide":"left"},
+		{"id":"67db1204550837d6","fromNode":"29d515b821dcf592","fromSide":"right","toNode":"60496723ba23319b","toSide":"left"},
+		{"id":"71361cd36e8a1dc5","fromNode":"60496723ba23319b","fromSide":"right","toNode":"47e50f60c8ce8f0b","toSide":"left"},
+		{"id":"b3ce517cb3d9826f","fromNode":"7302d5b17d75357d","fromSide":"right","toNode":"29d515b821dcf592","toSide":"left"},
+		{"id":"ad8e3038a3cddf57","fromNode":"60496723ba23319b","fromSide":"right","toNode":"58e300c6c5b0577c","toSide":"left"},
+		{"id":"dd0007c68cbf3197","fromNode":"58e300c6c5b0577c","fromSide":"right","toNode":"4c062b8aea966d94","toSide":"left"}
 	]
 }
