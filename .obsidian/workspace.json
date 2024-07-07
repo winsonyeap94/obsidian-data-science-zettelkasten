@@ -15,9 +15,9 @@
               "state": {
                 "file": "Stanford CS224W - Machine Learning with Graphs.canvas",
                 "viewState": {
-                  "x": 612.6025712951161,
-                  "y": 3102.3878461829204,
-                  "zoom": -1
+                  "x": 1346.1451209703362,
+                  "y": 4100.071701829525,
+                  "zoom": -1.3333333333333333
                 }
               }
             }
@@ -34,9 +34,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "82f049adf7fd9976",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 Zettelkasten/GNNs for Recommender Systems.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -65,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "weisfeiler-lehman",
+                "query": "BPR",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -82,7 +95,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "541a995d0338add2",
@@ -105,7 +119,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "999 Reference Notes/CS224W - Machine Learning with Graphs.md",
+                "file": "000 Zettelkasten/GNNs for Recommender Systems.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -154,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "999 Reference Notes/CS224W - Machine Learning with Graphs.md",
+                "file": "000 Zettelkasten/GNNs for Recommender Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "999 Reference Notes/CS224W - Machine Learning with Graphs.md",
+                "file": "000 Zettelkasten/GNNs for Recommender Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "999 Reference Notes/CS224W - Machine Learning with Graphs.md"
+                "file": "000 Zettelkasten/GNNs for Recommender Systems.md"
               }
             }
           }
@@ -219,22 +233,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7bf1e9cdb4376625",
+  "active": "82f049adf7fd9976",
   "lastOpenFiles": [
-    "000 Zettelkasten/Fast Neural Subgraph Matching and Counting.md",
     "999 Reference Notes/CS224W - Machine Learning with Graphs.md",
     "Stanford CS224W - Machine Learning with Graphs.canvas",
-    "Files/Pasted image 20240707122928.png",
-    "Files/Pasted image 20240707122915.png",
-    "Files/Pasted image 20240707122905.png",
-    "Files/Pasted image 20240707122847.png",
-    "Files/Pasted image 20240707122836.png",
-    "Files/Pasted image 20240707122811.png",
-    "Files/Pasted image 20240707122749.png",
-    "Files/Pasted image 20240707122527.png",
-    "Files/Pasted image 20240707122005.png",
-    "Files/Pasted image 20240707121655.png",
-    "000 Zettelkasten/Untitled.md",
+    "000 Zettelkasten/GNNs for Recommender Systems.md",
+    "000 Zettelkasten/PinSAGE.md",
+    "Files/Pasted image 20240707214456.png",
+    "Files/Pasted image 20240707213822.png",
+    "Files/Pasted image 20240707213441.png",
+    "Files/Pasted image 20240707213336.png",
+    "Files/Pasted image 20240707213253.png",
+    "Files/Pasted image 20240707212951.png",
+    "000 Zettelkasten/LightGCN.md",
+    "Files/Pasted image 20240707212237.png",
+    "Files/Pasted image 20240707212229.png",
+    "Files/Pasted image 20240707212220.png",
+    "Files/Pasted image 20240707212213.png",
+    "000 Zettelkasten/Neural Graph Collaborative Filtering (NGCF).md",
+    "000 Zettelkasten/Graph Representation.md",
+    "000 Zettelkasten/Fast Neural Subgraph Matching and Counting.md",
     "000 Zettelkasten/Knowledge Graphs.md",
     "000 Zettelkasten/Reasoning Over Knowledge Graphs.md",
     "000 Zettelkasten/Box Embeddings.md",
@@ -253,10 +271,6 @@
     "000 Zettelkasten/Traditional Feature-based Methods for Graphs.md",
     "000 Zettelkasten/GraphSAGE.md",
     "000 Zettelkasten/Graph Convolutional Networks (GCN).md",
-    "000 Zettelkasten/Training Graph Neural Networks (GNN).md",
-    "000 Zettelkasten/Graph Augmentation for GNNs.md",
-    "000 Zettelkasten/Graph Neural Networks.md",
-    "000 Zettelkasten/Graph Attention Networks (GAT).md",
     "Templates",
     "Files",
     "999 Reference Notes",
