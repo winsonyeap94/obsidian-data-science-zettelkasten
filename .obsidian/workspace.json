@@ -4,31 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8c319d6a17854ca5",
+        "id": "c7a201380185ddec",
         "type": "tabs",
         "children": [
           {
-            "id": "02d32c8d95b7d5e0",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Stanford CS224W - Machine Learning with Graphs.canvas",
-                "viewState": {
-                  "x": 1346.1451209703362,
-                  "y": 4100.071701829525,
-                  "zoom": -1.3333333333333333
-                }
-              }
-            }
-          },
-          {
-            "id": "7bf1e9cdb4376625",
+            "id": "f78e37ff7529b0db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "999 Reference Notes/CS224W - Machine Learning with Graphs.md",
+                "file": "999 Reference Notes/Interpretable Machine Learning.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -36,12 +21,25 @@
             }
           },
           {
-            "id": "82f049adf7fd9976",
+            "id": "c0272b33c4920bc8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 Zettelkasten/GNNs for Recommender Systems.md",
+                "file": "000 Zettelkasten/Model-Agnostic XAI Methods.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "779e4d6570513314",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 Zettelkasten/Accumulated Local Effects (ALE).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "BPR",
+                "query": "counterfactual",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -95,8 +93,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "541a995d0338add2",
@@ -119,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000 Zettelkasten/GNNs for Recommender Systems.md",
+                "file": "000 Zettelkasten/Accumulated Local Effects (ALE).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -168,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Zettelkasten/GNNs for Recommender Systems.md",
+                "file": "000 Zettelkasten/Accumulated Local Effects (ALE).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 Zettelkasten/GNNs for Recommender Systems.md",
+                "file": "000 Zettelkasten/Accumulated Local Effects (ALE).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -197,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 Zettelkasten/GNNs for Recommender Systems.md"
+                "file": "000 Zettelkasten/Accumulated Local Effects (ALE).md"
               }
             }
           }
@@ -233,23 +230,33 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "82f049adf7fd9976",
+  "active": "779e4d6570513314",
   "lastOpenFiles": [
+    "000 Zettelkasten/Model-Agnostic XAI Methods.md",
+    "000 Zettelkasten/Accumulated Local Effects (ALE).md",
+    "000 Zettelkasten/Partial Dependence Plot (PDP).md",
+    "Files/Pasted image 20240818001533.png",
+    "Files/Pasted image 20240818001530.png",
+    "000 Zettelkasten/Example-Based Explanations.md",
+    "Files/Pasted image 20240818000250.png",
+    "999 Reference Notes/Interpretable Machine Learning.md",
+    "Files/Pasted image 20240817235354.png",
+    "000 Zettelkasten/DAG and Causal Analytics.md",
+    "000 Zettelkasten/Double Machine Learning.md",
+    "000 Zettelkasten/Deep Generative Models for Graphs.md",
     "999 Reference Notes/CS224W - Machine Learning with Graphs.md",
     "Stanford CS224W - Machine Learning with Graphs.canvas",
+    "000 Zettelkasten/Graph Convolutional Policy Network (GCPN).md",
+    "Files/Pasted image 20240711220820.png",
+    "Files/Pasted image 20240711220601.png",
+    "Files/Pasted image 20240711220547.png",
+    "Files/Pasted image 20240711220546.png",
+    "Files/Pasted image 20240711220040.png",
+    "Files/Pasted image 20240711220030.png",
+    "000 Zettelkasten/GraphRNN.md",
     "000 Zettelkasten/GNNs for Recommender Systems.md",
     "000 Zettelkasten/PinSAGE.md",
-    "Files/Pasted image 20240707214456.png",
-    "Files/Pasted image 20240707213822.png",
-    "Files/Pasted image 20240707213441.png",
-    "Files/Pasted image 20240707213336.png",
-    "Files/Pasted image 20240707213253.png",
-    "Files/Pasted image 20240707212951.png",
     "000 Zettelkasten/LightGCN.md",
-    "Files/Pasted image 20240707212237.png",
-    "Files/Pasted image 20240707212229.png",
-    "Files/Pasted image 20240707212220.png",
-    "Files/Pasted image 20240707212213.png",
     "000 Zettelkasten/Neural Graph Collaborative Filtering (NGCF).md",
     "000 Zettelkasten/Graph Representation.md",
     "000 Zettelkasten/Fast Neural Subgraph Matching and Counting.md",
@@ -262,15 +269,6 @@
     "000 Zettelkasten/ComplEx.md",
     "000 Zettelkasten/DistMult.md",
     "000 Zettelkasten/TransE (Translating Embeddings for Modelling Multi-relational Data).md",
-    "000 Zettelkasten/TransR (Translation on Relation-specific Spaces).md",
-    "000 Zettelkasten/Heterogenous Graphs.md",
-    "000 Zettelkasten/Relational Graph Convolutional Networks (RGCNs).md",
-    "000 Zettelkasten/Heterogenous Graph Transformer (HGT).md",
-    "README.md",
-    "000 Zettelkasten/Graph Isomorphism Network (GIN).md",
-    "000 Zettelkasten/Traditional Feature-based Methods for Graphs.md",
-    "000 Zettelkasten/GraphSAGE.md",
-    "000 Zettelkasten/Graph Convolutional Networks (GCN).md",
     "Templates",
     "Files",
     "999 Reference Notes",

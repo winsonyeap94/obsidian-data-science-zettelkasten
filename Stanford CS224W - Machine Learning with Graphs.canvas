@@ -35,19 +35,22 @@
 		{"id":"6472b231f50ea1bd","type":"text","text":"# Chapter 5: GNN Augmentation and Training","x":160,"y":-165,"width":400,"height":80},
 		{"id":"9f47827fae451a65","type":"file","file":"000 Zettelkasten/Fast Neural Subgraph Matching and Counting.md","x":880,"y":3126,"width":400,"height":400},
 		{"id":"cdfb3c63cb8cba38","type":"text","text":"# Chapter 10: Fast Neural Subgraph Matching","x":160,"y":3286,"width":400,"height":80},
-		{"id":"dd731cb1500198b4","type":"file","file":"000 Zettelkasten/GNNs for Recommender Systems.md","x":880,"y":3680,"width":400,"height":400},
-		{"id":"270ad343095b2e64","type":"text","text":"# Chapter 11: GNNs for Recommenders","x":160,"y":3840,"width":400,"height":80},
-		{"id":"714eabf7078266eb","type":"text","text":"# Chapter 13: Advanced topics in GNNs","x":160,"y":4640,"width":400,"height":80},
-		{"id":"393badb522c8aa95","type":"text","text":"# Chapter 14: Graph Transformers","x":160,"y":4840,"width":400,"height":80},
-		{"id":"c76d59fab6b40500","type":"text","text":"# Chapter 15: Scaling to large graphs","x":160,"y":5040,"width":400,"height":80},
-		{"id":"5346e9967a085e97","type":"text","text":"# Chapter 16: SNAP Lectures","x":160,"y":5240,"width":400,"height":80},
-		{"id":"60e73a6110311000","type":"text","text":"# Chapter 17: Link Prediction and Causality","x":160,"y":5440,"width":400,"height":80},
-		{"id":"2d08aa233a296a7a","type":"text","text":"# Chapter 18: Algorithmic reasoning with GNNs","x":160,"y":5640,"width":400,"height":80},
 		{"id":"7302d5b17d75357d","type":"file","file":"999 Reference Notes/CS224W - Machine Learning with Graphs.md","x":-1120,"y":378,"width":720,"height":2548},
-		{"id":"b3e7b02cfdc3cb44","type":"text","text":"# Chapter 12: Deep generative models for graphs","x":160,"y":4320,"width":400,"height":80},
 		{"id":"a10a7f588ea47d20","type":"file","file":"000 Zettelkasten/Neural Graph Collaborative Filtering (NGCF).md","x":1520,"y":3480,"width":400,"height":400},
 		{"id":"af720d6bd1cf3224","type":"file","file":"000 Zettelkasten/LightGCN.md","x":1520,"y":3960,"width":400,"height":400},
-		{"id":"3cc7ddc18556f40b","x":1520,"y":4440,"width":400,"height":400,"type":"file","file":"000 Zettelkasten/PinSAGE.md"}
+		{"id":"3cc7ddc18556f40b","type":"file","file":"000 Zettelkasten/PinSAGE.md","x":1520,"y":4440,"width":400,"height":400},
+		{"id":"dd731cb1500198b4","type":"file","file":"000 Zettelkasten/GNNs for Recommender Systems.md","x":880,"y":3960,"width":400,"height":400},
+		{"id":"270ad343095b2e64","type":"text","text":"# Chapter 11: GNNs for Recommenders","x":160,"y":4120,"width":400,"height":80},
+		{"id":"e1b72163df328e65","type":"file","file":"000 Zettelkasten/Deep Generative Models for Graphs.md","x":880,"y":4960,"width":400,"height":400},
+		{"id":"03f8871d646260ce","type":"file","file":"000 Zettelkasten/GraphRNN.md","x":880,"y":5440,"width":400,"height":400},
+		{"id":"52509f712075c12e","type":"file","file":"000 Zettelkasten/Graph Convolutional Policy Network (GCPN).md","x":880,"y":5920,"width":400,"height":400},
+		{"id":"714eabf7078266eb","type":"text","text":"# Chapter 13: Advanced topics in GNNs","x":160,"y":6840,"width":400,"height":80},
+		{"id":"393badb522c8aa95","type":"text","text":"# Chapter 14: Graph Transformers","x":160,"y":7040,"width":400,"height":80},
+		{"id":"c76d59fab6b40500","type":"text","text":"# Chapter 15: Scaling to large graphs","x":160,"y":7240,"width":400,"height":80},
+		{"id":"5346e9967a085e97","type":"text","text":"# Chapter 16: SNAP Lectures","x":160,"y":7440,"width":400,"height":80},
+		{"id":"60e73a6110311000","type":"text","text":"# Chapter 17: Link Prediction and Causality","x":160,"y":7640,"width":400,"height":80},
+		{"id":"2d08aa233a296a7a","type":"text","text":"# Chapter 18: Algorithmic reasoning with GNNs","x":160,"y":7840,"width":400,"height":80},
+		{"id":"b3e7b02cfdc3cb44","type":"text","text":"# Chapter 12: Deep generative models for graphs","x":160,"y":5600,"width":400,"height":80}
 	],
 	"edges":[
 		{"id":"fbccce3bb81fc027","fromNode":"7302d5b17d75357d","fromSide":"right","toNode":"7877b60f750a6dd5","toSide":"left"},
@@ -97,6 +100,9 @@
 		{"id":"460dc1b9d4eb127e","fromNode":"7302d5b17d75357d","fromSide":"right","toNode":"2d08aa233a296a7a","toSide":"left"},
 		{"id":"804343241c7a4d97","fromNode":"dd731cb1500198b4","fromSide":"right","toNode":"a10a7f588ea47d20","toSide":"left"},
 		{"id":"4a63e7eaa238013e","fromNode":"dd731cb1500198b4","fromSide":"right","toNode":"af720d6bd1cf3224","toSide":"left"},
-		{"id":"021d16f9b940341c","fromNode":"dd731cb1500198b4","fromSide":"right","toNode":"3cc7ddc18556f40b","toSide":"left"}
+		{"id":"021d16f9b940341c","fromNode":"dd731cb1500198b4","fromSide":"right","toNode":"3cc7ddc18556f40b","toSide":"left"},
+		{"id":"c63558b71d910c35","fromNode":"b3e7b02cfdc3cb44","fromSide":"right","toNode":"e1b72163df328e65","toSide":"left"},
+		{"id":"cf5207dae85be884","fromNode":"b3e7b02cfdc3cb44","fromSide":"right","toNode":"03f8871d646260ce","toSide":"left"},
+		{"id":"2f87994d16a11693","fromNode":"b3e7b02cfdc3cb44","fromSide":"right","toNode":"52509f712075c12e","toSide":"left"}
 	]
 }
