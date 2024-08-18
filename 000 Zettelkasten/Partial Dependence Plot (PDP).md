@@ -20,6 +20,7 @@ Largest Column: standard
 PDP shows the **marginal effect** one or two features have on the predicted outcome of a machine learning model.
 - A partial dependence plot can show whether the relationship between the target and a feature is linear, monotonic, or more complex.
 
+---
 ### Algorithm
 
 #### Regression
@@ -59,6 +60,7 @@ For categorical features, the partial dependence is very easy to calculate.
 We get a PDP estimate by *forcing all data instances to have the same category*.
 - For example, if we look at the bike rental dataset and are interested in the PDP for the season, we get four numbers, one for each season. To compute the value for "summer", we replace the season of all data instances with "summer" and average the predictions.
 
+---
 ### PDP-based feature Importance
 
 The basic motivation is that a flat PDP indicates that the feature is not important, and **the more the PDP varies, the more important the feature is**.
@@ -81,6 +83,7 @@ This is the *range of the PDP values for the unique categories divided by 4*. Th
 >1. It captures only the main effect of the feature and **ignores possible feature interactions**. A feature could be very important based on other methods (e.g., [[Permutation Feature Importance]], but the PDP could be flat as the feature affects the prediction mainly through interactions with other features).
 >2. It is **defined over the unique values**. A unique feature value with just one instance is given the same weight in the importance computation as value with many instances.
 
+---
 ### Advantages
 
 1. **Intuitive**.
@@ -88,6 +91,7 @@ This is the *range of the PDP values for the unique categories divided by 4*. Th
 3. **Easy to implement**.
 4. The calculation for the PDPs has a **causal interpretation**. We intervene on a feature and measure the changes in the predictions.
 
+---
 ### Disadvantages
 
 1. The realistic **maximum number of features is 2**. It is difficult to visually explain PDPs when $\ge 3$ features are involved.
@@ -100,3 +104,4 @@ This is the *range of the PDP values for the unique categories divided by 4*. Th
 ## References
 
 - [[Interpretable Machine Learning]]
+- [8.1 Partial Dependence Plot (PDP) | Interpretable Machine Learning (christophm.github.io)](https://christophm.github.io/interpretable-ml-book/pdp.html)
